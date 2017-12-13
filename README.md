@@ -5,7 +5,10 @@ This is a basic setup for [Allure](https://github.com/allure-framework/) providi
 Reporting has become an essential tool for every team, and there are multiple reporting tools in rise,
 such as Extent Reporting. There is a big demand on good Reporting tool and Allure provide that.
 It can be used with TestNG or JUnit, providing easy to follow and beautiful reports.
+
 With annotations such as @Description and @Story you can provide detailed information.
+@Severity annotation to provide the severity of the test. @Epic and @Feature to track the tests
+down. So if you have Defect Tracking Management such as Jira set up, you can easily use Allure.
 
 I will use Allure for future projects, this is just a simple project for me to get more familiar with Allure.
 
